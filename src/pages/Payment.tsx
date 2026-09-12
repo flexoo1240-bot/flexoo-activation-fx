@@ -31,10 +31,10 @@ const Payment = () => {
   }, []);
 
   const paymentDetails = {
-    accountNumber: "9070290921",
-    accountName: "Kargwak Alpha",
-    bank: "SMARTCASH PSB",
-    amount: "₦18,600",
+    accountNumber: "9118048525",
+    accountName: "PROMISE CHINIYERE",
+    bank: "BANKIT MFB",
+    amount: "₦25,500",
   };
 
   useEffect(() => {
