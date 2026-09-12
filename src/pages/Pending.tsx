@@ -3,7 +3,7 @@ import { Clock, MessageCircle } from "lucide-react";
 
 const Pending = () => {
   const handleContactSupport = () => {
-    window.open("https://t.me/bankwalletcustomercare247", "_blank");
+    window.open("https://t.me/redpayofficail", "_blank");
   };
 
   return (
